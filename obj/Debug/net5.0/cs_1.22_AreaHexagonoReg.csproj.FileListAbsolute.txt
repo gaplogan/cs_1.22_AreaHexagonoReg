@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.22_AreaHexagonoReg\bin\Debug\net5.0\cs_1.22_AreaHexagonoReg.exe
+E:\GitHub\cs_1.22_AreaHexagonoReg\bin\Debug\net5.0\cs_1.22_AreaHexagonoReg.deps.json
+E:\GitHub\cs_1.22_AreaHexagonoReg\bin\Debug\net5.0\cs_1.22_AreaHexagonoReg.runtimeconfig.json
+E:\GitHub\cs_1.22_AreaHexagonoReg\bin\Debug\net5.0\cs_1.22_AreaHexagonoReg.runtimeconfig.dev.json
+E:\GitHub\cs_1.22_AreaHexagonoReg\bin\Debug\net5.0\cs_1.22_AreaHexagonoReg.dll
+E:\GitHub\cs_1.22_AreaHexagonoReg\bin\Debug\net5.0\ref\cs_1.22_AreaHexagonoReg.dll
+E:\GitHub\cs_1.22_AreaHexagonoReg\bin\Debug\net5.0\cs_1.22_AreaHexagonoReg.pdb
+E:\GitHub\cs_1.22_AreaHexagonoReg\obj\Debug\net5.0\cs_1.22_AreaHexagonoReg.csprojAssemblyReference.cache
+E:\GitHub\cs_1.22_AreaHexagonoReg\obj\Debug\net5.0\cs_1.22_AreaHexagonoReg.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.22_AreaHexagonoReg\obj\Debug\net5.0\cs_1.22_AreaHexagonoReg.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.22_AreaHexagonoReg\obj\Debug\net5.0\cs_1.22_AreaHexagonoReg.AssemblyInfo.cs
+E:\GitHub\cs_1.22_AreaHexagonoReg\obj\Debug\net5.0\cs_1.22_AreaHexagonoReg.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.22_AreaHexagonoReg\obj\Debug\net5.0\cs_1.22_AreaHexagonoReg.dll
+E:\GitHub\cs_1.22_AreaHexagonoReg\obj\Debug\net5.0\ref\cs_1.22_AreaHexagonoReg.dll
+E:\GitHub\cs_1.22_AreaHexagonoReg\obj\Debug\net5.0\cs_1.22_AreaHexagonoReg.pdb
+E:\GitHub\cs_1.22_AreaHexagonoReg\obj\Debug\net5.0\cs_1.22_AreaHexagonoReg.genruntimeconfig.cache
